@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 💼 Open to fulltime permanent remote opportunities from DC
-
 ![Catherine's github stats](https://github-readme-stats.vercel.app/api?username=chengjieyun59&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
