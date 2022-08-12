@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 - 💼 Open to fulltime permanent remote opportunities from DC
-- 📫 How to reach me: https://www.linkedin.com/in/cat-cheng/
-- 🔭 I’m currently working with Ruby and Java to power online payments at Stripe
-- 🌱 I’m currently learning many internal tools for fun projects
-- 👯 I’m looking to collaborate on open source projects and hackathons
-- 🏳️‍🌈 Pronouns: she/her
 
 ![Catherine's github stats](https://github-readme-stats.vercel.app/api?username=chengjieyun59&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
