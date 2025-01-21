@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer with 4 years of experience building fullstack applications and backend platforms in large distributed systems.
+I am a software engineer with 5 years of experience building fullstack applications and backend platforms in large distributed systems.
 
 - 💼 Open to 100% remote roles from California.
 - 📫 Message me: https://www.linkedin.com/in/cheng-cat/
